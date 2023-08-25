@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=purellarohith&label=Profile%20views&color=0e75b6&style=flat" alt="purellarohith" /> </p>
 
-- 🌱 I’m currently learning **Rust , Adonisjs**
+- 🌱 I’m currently learning **Python , SQL**
 
 <!-- - 👨‍💻 All of my projects are available at [https://purellarohith.com/](https://purellarohith.com) -->
 
